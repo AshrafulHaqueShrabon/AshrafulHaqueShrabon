@@ -1,76 +1,40 @@
-<div align="center">
-  <img height="400" src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif"  />
-</div>
+<!--
+  GENERATED FILE: do not edit by hand.
+  Edit profile.toml, then run `python build.py` (or just push: the build workflow regenerates it).
+-->
 
-###
+# \[SHOGUN\] ASHRAFUL HAQUE SHRABON
 
-<h3 align="center">👋 <こんにちは>👋</h3>
+<samp>Competitive programmer | C · C++ · Python | Machine Learning &amp; AI | Blender 3D modeler</samp>
 
-###
+<p>
+<a href="mailto:cse.shrabon@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-email-light.svg"><img alt="Email: cse.shrabon@gmail.com" src="assets/generated/btn-email-light.svg" width="156"></picture></a>
+<a href="https://www.linkedin.com/in/ashrafulhaqueshrabon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-linkedin-light.svg"><img alt="LinkedIn profile" src="assets/generated/btn-linkedin-light.svg" width="156"></picture></a>
+<a href="https://ashrafulhaqueshrabon.github.io/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-website-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-website-light.svg"><img alt="Website" src="assets/generated/btn-website-light.svg" width="156"></picture></a>
+</p>
 
-<h1 align="center">I'm Shrabon (aka Shogun)</h1>
+### <samp>&gt; competitive programming</samp>
 
-###
+<p>
+<a href="https://codeforces.com/profile/InternetShogun"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-codeforces-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-codeforces-light.svg"><img alt="Codeforces profile (InternetShogun)" src="assets/generated/btn-codeforces-light.svg" width="156"></picture></a>
+<a href="https://atcoder.jp/users/InternetShogun"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-atcoder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-atcoder-light.svg"><img alt="AtCoder profile (InternetShogun)" src="assets/generated/btn-atcoder-light.svg" width="156"></picture></a>
+<a href="https://leetcode.com/u/internetshogun/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-leetcode-light.svg"><img alt="LeetCode profile (internetshogun)" src="assets/generated/btn-leetcode-light.svg" width="156"></picture></a>
+<a href="https://www.codechef.com/users/internetshogun"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-codechef-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-codechef-light.svg"><img alt="CodeChef profile (internetshogun)" src="assets/generated/btn-codechef-light.svg" width="156"></picture></a>
+<br>
+<a href="https://www.hackerrank.com/profile/ash_shrabon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-hackerrank-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-hackerrank-light.svg"><img alt="HackerRank profile (ash_shrabon)" src="assets/generated/btn-hackerrank-light.svg" width="156"></picture></a>
+<a href="https://judge.beecrowd.com/en/profile/268689"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-beecrowd-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-beecrowd-light.svg"><img alt="beecrowd profile (268689)" src="assets/generated/btn-beecrowd-light.svg" width="156"></picture></a>
+<a href="https://cses.fi/user/450345"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-cses-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-cses-light.svg"><img alt="CSES profile (450345)" src="assets/generated/btn-cses-light.svg" width="156"></picture></a>
+<a href="https://vjudge.net/user/InternetShogun"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/btn-vjudge-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/btn-vjudge-light.svg"><img alt="vjudge profile (InternetShogun)" src="assets/generated/btn-vjudge-light.svg" width="156"></picture></a>
+</p>
 
-<p align="center">Competitive Programmer | Problem Solver</p>
+### <samp>&gt; skills</samp>
 
-###
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/generated/skills-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/generated/skills-light.svg"><img alt="Skills. Languages: C, C++, Python, HTML, CSS, JavaScript. Tools: Git, GitHub, VS Code, Blender. Fields: Machine Learning, Artificial Intelligence." src="assets/generated/skills-light.svg" width="318"></picture></p>
 
-<h2 align="left">🚀 My Stacks :</h2>
+### <samp>&gt; top languages</samp>
 
-###
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshrafulHaqueShrabon/AshrafulHaqueShrabon/output/languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshrafulHaqueShrabon/AshrafulHaqueShrabon/output/languages-light.svg"><img alt="Top languages across my public repositories (updated daily)" src="https://raw.githubusercontent.com/AshrafulHaqueShrabon/AshrafulHaqueShrabon/output/languages-light.svg" width="420"></picture></p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshrafulHaqueShrabon/AshrafulHaqueShrabon/output/arcade-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshrafulHaqueShrabon/AshrafulHaqueShrabon/output/arcade-light.svg"><img alt="Pac-Man game played on my GitHub contribution graph (updated daily)" src="https://raw.githubusercontent.com/AshrafulHaqueShrabon/AshrafulHaqueShrabon/output/arcade-light.svg" width="100%"></picture></p>
 
-###
-
-<h2 align="left">📱 My Socials :</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.facebook.com/AshrafulHaqueShrabon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/ashrafulhaqueshrabon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/AshrafulShrabon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ashrafulhaqueshrabon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshrafulHaqueShrabon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="80" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshrafulHaqueShrabon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="108" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=AshrafulHaqueShrabon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrafulHaqueShrabon&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<p><img src="https://komarev.com/ghpvc/?username=AshrafulHaqueShrabon&amp;style=flat-square&amp;color=9A6700&amp;label=Profile+views" alt="Profile views"></p>

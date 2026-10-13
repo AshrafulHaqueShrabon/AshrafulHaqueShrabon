@@ -1,0 +1,81 @@
+# ════════════════════════════════════════════════════════════════════════
+#  profile.toml: the ONLY file you edit. README.md and its images are
+#  generated from it. After editing:
+#      python build.py --check     (short checklist of what's missing)
+#      python build.py             (rebuild README.md and images)
+#  Then commit and push; the workflows do the rest. See SETUP.md.
+#
+#  EVERYTHING HERE BECOMES PUBLIC on your GitHub profile, including email.
+#  Text values go in "double quotes"; numbers and true/false don't.
+#  Leave a value as "" to hide the element that uses it.
+# ════════════════════════════════════════════════════════════════════════
+
+[profile]
+# Your name, shown as the page title exactly as you type it.
+name = "[SHOGUN] ASHRAFUL HAQUE SHRABON"
+
+# Your GitHub username: the part after github.com/ (no @, no URL).
+# Needed for top languages and the contribution game. Your profile
+# repository must be named exactly like it.
+github_username = "AshrafulHaqueShrabon"
+
+# Headline under your name, written as parts joined with " | ".
+# 90 characters or fewer keeps it on one line.
+headline = [
+  "Competitive programmer",
+  "C · C++ · Python",
+  "Machine Learning & AI",
+  "Blender 3D modeler",
+]
+
+# Optional 1–2 sentence summary in plain text (no Markdown), shown under the buttons.
+bio = ""
+
+[contact]
+# Buttons under your headline. Leave "" to hide a button.
+# Your email address. PUBLIC: anyone (and spam bots) can read it.
+email = "cse.shrabon@gmail.com"
+# Full LinkedIn profile URL, e.g. "https://www.linkedin.com/in/your-handle"
+linkedin = "https://www.linkedin.com/in/ashrafulhaqueshrabon"
+# Full URL of your website, e.g. "https://your-site.com"
+website = "https://ashrafulhaqueshrabon.github.io/portfolio"
+# Text on the website button (up to 11 characters), e.g. "Portfolio" or "Blog".
+website_label = "Website"
+
+[profiles]
+# Competitive-programming profile buttons, shown in this order (no ratings).
+# Paste the full URL of each profile; leave "" or delete a line to hide it.
+codeforces = "https://codeforces.com/profile/InternetShogun"
+atcoder = "https://atcoder.jp/users/InternetShogun"
+leetcode = "https://leetcode.com/u/internetshogun/"
+codechef = "https://www.codechef.com/users/internetshogun"
+hackerrank = "https://www.hackerrank.com/profile/ash_shrabon"
+beecrowd = "https://judge.beecrowd.com/en/profile/268689"
+cses = "https://cses.fi/user/450345"
+vjudge = "https://vjudge.net/user/InternetShogun"
+
+[skills]
+# One labeled row of icons per line. Values are skillicons.dev icon IDs
+# (full list: https://skillicons.dev, "Icons List"), plus "ml" and "ai" for
+# the custom Machine Learning and AI tiles. Careful: on skillicons "ai" means
+# Adobe Illustrator; here it is the AI tile (use "illustrator" for Adobe).
+# Custom hover label: "cpp:C++17". Add rows with any name, e.g. databases = [...].
+languages = ["c", "cpp", "py", "html", "css", "js"]
+tools = ["git", "github", "vscode", "blender"]
+fields = ["ml", "ai"]
+# Uncomment and keep only the ones you actually use:
+# ml_frameworks = ["pytorch", "tensorflow", "sklearn", "numpy", "pandas", "opencv"]
+
+[github]
+# Top languages bar, computed daily from your own (non-fork) repositories.
+top_languages = 5                        # 1-8 languages; the rest is grouped as "Other"
+exclude_languages = ["Jupyter Notebook"] # languages to leave out
+
+[display]
+# Accent color of the buttons and the game: "amber" or "green".
+accent = "amber"
+# Contribution game strip at the bottom: "pacman", "breakout", "galaga",
+# "puzzle-bobble", "bomberman", "minesweeper" or "snake". Use "" to hide it.
+arcade = "pacman"
+# Small "Profile views" badge at the very bottom (komarev.com): true or false.
+visitor_counter = true
